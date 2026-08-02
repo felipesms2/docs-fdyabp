@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-gn0d0d.salamduit.xyz/sitemap.xml
